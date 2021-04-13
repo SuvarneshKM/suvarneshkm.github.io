@@ -175,14 +175,7 @@ body {
 .text-center {
   text-align: center;
 }
-img {
-  max-width: 100%;
-  border-radius: 50%; 
-}
-.section img.rounded {
-  border-radius: 130px;
-  margin-bottom: 30px;
-}
+
 .container {
   z-index: 3;
   position: relative;

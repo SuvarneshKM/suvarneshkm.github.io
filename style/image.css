@@ -1,8 +1,0 @@
-img {
-  max-width: 100%;
-  border-radius: 50%; 
-}
-.section img.rounded {
-  border-radius: 130px;
-  margin-bottom: 30px;
-}

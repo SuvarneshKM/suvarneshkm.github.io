@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.db928f3d.chunk.css",
-    "main.js": "/static/js/main.d9ec1f8e.chunk.js",
-    "main.js.map": "/static/js/main.d9ec1f8e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e3a8426a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e3a8426a.js.map",
-    "static/js/2.da90f9a7.chunk.js": "/static/js/2.da90f9a7.chunk.js",
-    "static/js/2.da90f9a7.chunk.js.map": "/static/js/2.da90f9a7.chunk.js.map",
+    "main.css": "/static/css/main.d486b6a8.chunk.css",
+    "main.js": "/static/js/main.22164124.chunk.js",
+    "main.js.map": "/static/js/main.22164124.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b6718020.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b6718020.js.map",
+    "static/js/2.067a37d9.chunk.js": "/static/js/2.067a37d9.chunk.js",
+    "static/js/2.067a37d9.chunk.js.map": "/static/js/2.067a37d9.chunk.js.map",
     "static/css/3.f30a6a9f.chunk.css": "/static/css/3.f30a6a9f.chunk.css",
-    "static/js/3.48ac63d8.chunk.js": "/static/js/3.48ac63d8.chunk.js",
-    "static/js/3.48ac63d8.chunk.js.map": "/static/js/3.48ac63d8.chunk.js.map",
+    "static/js/3.3cca429c.chunk.js": "/static/js/3.3cca429c.chunk.js",
+    "static/js/3.3cca429c.chunk.js.map": "/static/js/3.3cca429c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/3.f30a6a9f.chunk.css.map": "/static/css/3.f30a6a9f.chunk.css.map",
-    "static/css/main.db928f3d.chunk.css.map": "/static/css/main.db928f3d.chunk.css.map",
-    "static/js/2.da90f9a7.chunk.js.LICENSE.txt": "/static/js/2.da90f9a7.chunk.js.LICENSE.txt",
+    "static/css/main.d486b6a8.chunk.css.map": "/static/css/main.d486b6a8.chunk.css.map",
+    "static/js/2.067a37d9.chunk.js.LICENSE.txt": "/static/js/2.067a37d9.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.dfa0f4ee.ttf",
     "static/media/Hack_Club_cucek.22eeb2cb.png": "/static/media/Hack_Club_cucek.22eeb2cb.png",
     "static/media/blogathon.f8d218af.jpg": "/static/media/blogathon.f8d218af.jpg",
@@ -35,9 +35,9 @@
     "static/media/vibgyor.d8e8e4a1.jpg": "/static/media/vibgyor.d8e8e4a1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e3a8426a.js",
-    "static/js/2.da90f9a7.chunk.js",
-    "static/css/main.db928f3d.chunk.css",
-    "static/js/main.d9ec1f8e.chunk.js"
+    "static/js/runtime-main.b6718020.js",
+    "static/js/2.067a37d9.chunk.js",
+    "static/css/main.d486b6a8.chunk.css",
+    "static/js/main.22164124.chunk.js"
   ]
 }

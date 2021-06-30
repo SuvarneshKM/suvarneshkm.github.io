@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d486b6a8.chunk.css",
-    "main.js": "/static/js/main.3cbba94d.chunk.js",
-    "main.js.map": "/static/js/main.3cbba94d.chunk.js.map",
+    "main.js": "/static/js/main.d0b84630.chunk.js",
+    "main.js.map": "/static/js/main.d0b84630.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b6718020.js",
     "runtime-main.js.map": "/static/js/runtime-main.b6718020.js.map",
     "static/js/2.067a37d9.chunk.js": "/static/js/2.067a37d9.chunk.js",
@@ -17,7 +17,7 @@
     "static/media/index.css": "/static/media/Montserrat-Regular.dfa0f4ee.ttf",
     "static/media/Hack_Club_cucek.22eeb2cb.png": "/static/media/Hack_Club_cucek.22eeb2cb.png",
     "static/media/blogathon.f8d218af.jpg": "/static/media/blogathon.f8d218af.jpg",
-    "static/media/buildfromhome.643283c9.jpg": "/static/media/buildfromhome.643283c9.jpg",
+    "static/media/buildfromhome.cf613526.jpg": "/static/media/buildfromhome.cf613526.jpg",
     "static/media/code4munnar.bfbdee3f.jpg": "/static/media/code4munnar.bfbdee3f.jpg",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d3.svg",
     "static/media/ctracker.21fcdcb8.jpg": "/static/media/ctracker.21fcdcb8.jpg",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.b6718020.js",
     "static/js/2.067a37d9.chunk.js",
     "static/css/main.d486b6a8.chunk.css",
-    "static/js/main.3cbba94d.chunk.js"
+    "static/js/main.d0b84630.chunk.js"
   ]
 }
